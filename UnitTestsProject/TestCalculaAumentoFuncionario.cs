@@ -55,6 +55,42 @@
 
     [TestMethod]
     [TestCategory("Calculo")]
+    public void TestPessoaNoLimiteInferior()
+    {
+        var salario = 1000M;
+        var tablePessoa = CriaTabelaPessoa(salario, 'S', DateTime.Now);
+        var tableDependentes = new List<Dependente>();
+
+        var log = new LogWriter();
+        var logErros = new LogWriter();
+        var persistencia = StubPersistencia(tablePessoa, tableDependentes);
+        var calcula = new CalculaAumentoFuncionario(persistencia, log, logErros);
+
+        calcula.Calcula();
+        var novoSalario = calcula.Calculados[0].salario;
+        Assert.AreEqual(salario * 1.10M, novoSalario);
+    }
+
+    [TestMethod]
+    [TestCategory("Calculo")]
+    public void TestPessoaNoLimiteSuperior()
+    {
+        var salario = 5000M;
+        var tablePessoa = CriaTabelaPessoa(salario, 'S', DateTime.Now);
+        var tableDependentes = new List<Dependente>();
+
+        var log = new LogWriter();
+        var logErros = new LogWriter();
+        var persistencia = StubPersistencia(tablePessoa, tableDependentes);
+        var calcula = new CalculaAumentoFuncionario(persistencia, log, logErros);
+
+        calcula.Calcula();
+        var novoSalario = calcula.Calculados[0].salario;
+        Assert.AreEqual(salario * 1.10M, novoSalario);
+    }
+
+    [TestMethod]
+    [TestCategory("Calculo")]
     public void TestPessoaInativa()
     {
       var salario = 2000M;
@@ -95,23 +131,23 @@
 
     [TestMethod]
     [TestCategory("Calculo")]
-    public void TestTempodeServicoLimitadoem3()
+    public void TestTempodeServicoLimitadoem10()
     {
-      var salario = 2000M;
-      var tablePessoa = CriaTabelaPessoa(salario, 'S', new DateTime(1990,1,1));
-      var tableDependentes = new List<Dependente>();
+        var salario = 2000M;
+        var tablePessoa = CriaTabelaPessoa(salario, 'S', new DateTime(1990, 1, 1));
+        var tableDependentes = new List<Dependente>();
 
-      var log = new LogWriter();
-      var logErros = new LogWriter();
-      var persistencia = StubPersistencia(tablePessoa, tableDependentes);
-      var calcula = new CalculaAumentoFuncionario(persistencia, log, logErros);
+        var log = new LogWriter();
+        var logErros = new LogWriter();
+        var persistencia = StubPersistencia(tablePessoa, tableDependentes);
+        var calcula = new CalculaAumentoFuncionario(persistencia, log, logErros);
 
-      calcula.Calcula();
-      var novoSalario = calcula.Calculados[0].salario;
-      Assert.AreEqual(salario * (1.10M + (0.02M * 3)  ), novoSalario);
+        calcula.Calcula();
+        var novoSalario = calcula.Calculados[0].salario;
+        Assert.AreEqual(salario * (1.10M + (0.01M * 10)), novoSalario);
     }
 
-    [TestMethod]
+        [TestMethod]
     [TestCategory("Calculo")]
     public void TestPessoaAumentoLimita3Dependentes()
     {
