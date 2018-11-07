@@ -50,6 +50,27 @@ namespace AcessoRestWepAPI.Controllers
             return logCalculo;
         }
 
+        [Route("api/employees/deleteInactive")]
+        [HttpDelete]
+        public string DeletarFuncInativos()
+        {
+            string logCalculo = string.Empty;
+            using (var persistencia = new PersistenciaFuncionario(CriaAccess(), new LogWriter()))
+            {
+                try
+                {
+                    var inativosFunc = new DeletarFuncionariosInativos(persistencia);
+                    inativosFunc.deletarInativos();
+                    logCalculo = inativosFunc.Log;
+                }
+                catch (Exception ex)
+                {
+                    logCalculo = ex.Message;
+                }
+            }
+            return logCalculo;
+        }
+
         // DELETE: api/Employees/5
         public void Delete(int id)
         {

@@ -94,6 +94,21 @@
         return result;
     }
 
+    public int PersisteDeletarFuncionariosInativos()
+    {
+        Log.WriteLog("    Apagando os funcionarios inativos...");
+        var inicioGrava = DateTime.Now;
+
+        Access.Execute("DELETE FROM DEPENDENTE WHERE PESSOA IN (SELECT P.ID FROM PESSOA P WHERE P.ATIVO='N')");
+
+        var result = Access.Execute("DELETE FROM PESSOA WHERE ATIVO='N'");
+
+        Log.WriteLog($"    Funcionários inativos deletados com sucesso.");
+        Log.WriteLog($"    Foram deletados {result} funcionários inativos.");
+        Log.WriteLog($"    Tempo de Gravação no banco         : {DateTime.Now - inicioGrava}");
+        return result;
+    }
+
     public int PersisteFuncionario(List<Funcionario> funcionarios)
     {
       if (funcionarios == null)

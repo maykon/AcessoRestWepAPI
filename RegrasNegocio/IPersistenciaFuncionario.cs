@@ -20,6 +20,7 @@ namespace RegrasNegocio
     int PersisteFuncionario(Funcionario funcionario);
     int PersisteFuncionario(List<Funcionario> funcionarios);
     int PersisteStatusFuncionario(Funcionario funcionario);
+    int PersisteDeletarFuncionariosInativos();
     List<Funcionario> RetornaFuncionarios();
     void ClearLog();
   }

@@ -80,4 +80,26 @@
         });
     });
 
+    $('#DeletarInativos').click(function () {
+        var _url = 'http://' + window.location.host + '/';
+        $.ajax({
+            url: _url + "api/employees/deleteInactive",
+            type: 'DELETE',
+            datatype: 'json',
+            contentType: 'application/json',
+            //Server para passar um valor para p server via post ou put
+            success: function (logresult) {
+
+                resultadoLog(logresult);
+
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+
+                throw errorThrown;
+
+            }
+
+        });
+    });
+
 })();

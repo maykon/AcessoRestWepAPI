@@ -49,6 +49,7 @@
   <ItemGroup>
     <Compile Include="CalculaAumentoFuncionario.cs" />
     <Compile Include="AtualizarStatusFuncionario.cs" />
+    <Compile Include="DeletarFuncionariosInativos.cs" />
     <Compile Include="DiContainer.cs" />
     <Compile Include="Models\Funcionario.cs" />
     <Compile Include="ILogWriter.cs" />

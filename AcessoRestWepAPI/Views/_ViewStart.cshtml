@@ -12,13 +12,18 @@
     <form class="form">
         <button type="button" id="CalcularAumento">Calcular Aumento (Chamada MVC - Controller)</button><br><br>
         <button type="button" id="CalcularAumentoWebAPI">Calcular Aumento (Chamada ApiController)</button><br><br>
-        <div class="form-group">
-            <label for="employeeId">ID Funcionário : </label>
-            <input type="number" name="employeeId" id="employeeId" />
-            <label for="status">Novo Status</label>
-            <input type="text" name="status" id="status" maxlength="1" pattern="[A-Z]" title="Deve conter apenas uma letra maiúscula." />
-            <button type="button" id="AlterarStatus">Alterar Status</button>
-        </div>
+        <fieldset>
+            <legend> Deletar funcionários inativos </legend>
+            <div class="form-group">
+                <label for="employeeId">ID Funcionário : </label>
+                <input type="number" name="employeeId" id="employeeId" />
+                <label for="status">Novo Status</label>
+                <input type="text" name="status" id="status" maxlength="1" pattern="[A-Z]" title="Deve conter apenas uma letra maiúscula." />
+                <button type="button" id="AlterarStatus">Alterar Status</button>
+            </div>
+        </fieldset>
+        <br><br>
+        <button type="button" id="DeletarInativos">Deletar funcionários inativos</button>
         <br><br>
     </form>
 
