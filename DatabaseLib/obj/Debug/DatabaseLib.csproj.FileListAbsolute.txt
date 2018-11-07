@@ -1,0 +1,73 @@
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\Dapper.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\Scimore.Data.ScimoreClient.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\bin\Debug\Dapper.xml
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\DatabaseLib\bin\Debug\Dapper.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\DatabaseLib\bin\Debug\Dapper.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\DatabaseLib\bin\Debug\Dapper.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\DatabaseLib\bin\Debug\Dapper.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\Dapper.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\Dapper.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\bin\Debug\DatabaseLib.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\bin\Debug\DatabaseLib.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\bin\Debug\Dapper.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\bin\Debug\Dapper.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.csprojAssemblyReference.cache
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.csproj.CopyComplete
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\obj\Debug\DatabaseLib.pdb

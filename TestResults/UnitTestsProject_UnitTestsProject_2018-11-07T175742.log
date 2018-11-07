@@ -1,0 +1,36 @@
+﻿2018-11-07T17:57:42.1662793-02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-11-07T17:57:42.1722749-02:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-11-07T17:57:42.1722749-02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-11-07T17:57:42.5450447-02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-11-07T17:57:42.5450447-02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+2018-11-07T17:57:42.5460471-02:00;VSTestExecutionThread;Info;Profile: UnitTestsProject
+2018-11-07T17:57:50.6835331-02:00;Thread#15;Info;starting test run
+2018-11-07T17:57:50.6985244-02:00;Thread#15;Info;Discovering target: Default
+2018-11-07T17:57:50.6985244-02:00;Thread#15;Info;Discovering tests from assembly: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+Appdomain Disposed
+Test Suite Dump
+#0: UnitTestsProject/UnitTestsProject - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-11-07T17:57:51.0083321-02:00;Thread#15;Info;test run finished
+2018-11-07T17:57:51.0093330-02:00;Thread#15;Info;publishing test results
+2018-11-07T17:57:51.0922808-02:00;Thread#15;Info;test results published
+2018-11-07T17:57:51.0932797-02:00;Thread#15;Info;generating reports
+2018-11-07T17:57:51.1142664-02:00;Thread#15;Info;creating 1 report(s)
+2018-11-07T17:57:51.1142664-02:00;Thread#15;Info;generate Report ReportTemplate.cshtml
+2018-11-07T17:57:53.3913493-02:00;Thread#15;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2018-11-07T17:57:53.3983461-02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-11-07T17:57:53.3983461-02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\TestResults\UnitTestsProject_UnitTestsProject_2018-11-07T175742.html'
+2018-11-07T17:57:53.4113338-02:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\TestResults\UnitTestsProject_UnitTestsProject_2018-11-07T175742.log

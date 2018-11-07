@@ -1,0 +1,149 @@
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.csprojResolveAssemblyReference.cache
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\DatabaseLib.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\Dapper.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\Dapper.xml
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+c:\users\christiano.coutinho\documents\visual studio 2017\Projects\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\christiano.coutinho\Documents\Visual Studio 2017\Projects\Exercicio01\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.csprojResolveAssemblyReference.cache
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\obj\Debug\RegrasNegocio.csprojResolveAssemblyReference.cache
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01 - Copia\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\obj\Debug\RegrasNegocio.csprojResolveAssemblyReference.cache
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_Passo a passo\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\obj\Debug\RegrasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio_LegadoCursoAnterior\Exercicio01_Passo a passo\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Curso_TesteUnitario\___TDD_TOTVS\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Exercicios\Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\Curso Teste Unitario\Fase1\Exercicio_Completo\Exercicio01_InteliTest_Passo_a_Passo\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\RegrasNegocio.dll.config
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\RegrasNegocio.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Castle.Core.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Castle.Windsor.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\DatabaseLib.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Scimore.Data.ScimoreClient.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Dapper.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\DatabaseLib.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Castle.Windsor.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\Dapper.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.csprojAssemblyReference.cache
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CoreCompileInputs.cache
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.csproj.CopyComplete
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\obj\Debug\RegrasNegocio.pdb

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Aumento Salarial do Funcionário</title>
+
+</head>
+<body class="container">
+
+    <h1 class="text-center">Aumento Salarial do Funcionário</h1>
+
+    <form class="form">
+        <button type="button" id="CalcularAumento">Calcular Aumento (Chamada MVC - Controller)</button><br><br>
+        <button type="button" id="CalcularAumentoWebAPI">Calcular Aumento (Chamada ApiController)</button><br><br>
+        <div class="form-group">
+            <label for="employeeId">ID Funcionário : </label>
+            <input type="number" name="employeeId" id="employeeId" />
+            <label for="status">Novo Status</label>
+            <input type="text" name="status" id="status" maxlength="1" pattern="[A-Z]" title="Deve conter apenas uma letra maiúscula." />
+            <button type="button" id="AlterarStatus">Alterar Status</button>
+        </div>
+        <br><br>
+    </form>
+
+    <div class="form" id="log">
+        <div class='form-group'>
+            <br>
+            <label>Resultado cálculo</label>
+            <br>
+            <textarea id='textarea' readonly cols="80" rows="15" > </textarea>
+        </div>
+    </div>
+
+
+    <script src="Scripts/jQuery/jquery-2.2.2.min.js"></script>
+    <script src="Scripts/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="Scripts/index.js"></script>
+
+</body>
+</html>
+

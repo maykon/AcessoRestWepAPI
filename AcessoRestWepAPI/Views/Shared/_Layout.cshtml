@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Consumo WebServices RM</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    
+    <h1 class="text-center">WebServicesRM</h1>
+
+    <form class="form">
+        <button type="button" id="Incluir">Incluir</button><br><br>
+        <button type="button" id="Editar">Editar</button><br><br>
+        <button type="button" id="Consultar">Consultar</button><br><br>
+        <button type="button" id="Excluir">Excluir</button>
+    </form>
+    <script src="script/jQuery/jquery-2.2.2.min.js"></script>
+    <script src="script/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="script/index.js"></script>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

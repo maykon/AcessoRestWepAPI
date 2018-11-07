@@ -1,0 +1,139 @@
+﻿2018-11-07T18:04:43.3365514-02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-11-07T18:04:43.3415463-02:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-11-07T18:04:43.3425443-02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-11-07T18:04:43.6803390-02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-11-07T18:04:43.6803390-02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+2018-11-07T18:04:43.6803390-02:00;VSTestExecutionThread;Info;Profile: UnitTestsProject
+2018-11-07T18:04:54.8263207-02:00;Thread#16;Info;starting test run
+2018-11-07T18:04:54.8413087-02:00;Thread#16;Info;Discovering target: Default
+2018-11-07T18:04:54.8423081-02:00;Thread#16;Info;Discovering tests from assembly: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+Appdomain Disposed
+Test Suite Dump
+#0: UnitTestsProject/UnitTestsProject - 
+#1: Default - 
+#2: UnitTestsProject - 
+#3: Employee - 
+#4: Try change status to empty employee - TestAssembly:UnitTestsProject/Feature:Employee/Scenario:Try+change+status+to+empty+employee
+#5: Try change status to empty - TestAssembly:UnitTestsProject/Feature:Employee/Scenario:Try+change+status+to+empty
+#6: Try change status to 'S' - TestAssembly:UnitTestsProject/Feature:Employee/Scenario:Try+change+status+to+%27S%27
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for UnitTestsProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have a empty employee
+Thread#0:T:done: EmployeeSteps.GivenIHaveAEmptyEmployee() (0,5s)
+Thread#0:B:When I press change status
+Thread#0:T:done: EmployeeSteps.WhenIPressChangeStatus() (0,0s)
+Thread#0:B:Then the result should be a message 'Id do funcionário deve ser maior que zero.'
+Thread#0:T:done: EmployeeSteps.ThenTheResultShouldBeAMessageId() (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 2,2995816 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given I have a employee ID
+Thread#0:T:done: EmployeeSteps.GivenIHaveAEmployeeID() (0,0s)
+Thread#0:B:And I try change status to number char
+Thread#0:T:done: EmployeeSteps.GivenITryChangeStatusToEmpty() (0,0s)
+Thread#0:B:When I press change status
+Thread#0:T:done: EmployeeSteps.WhenIPressChangeStatus() (0,0s)
+Thread#0:B:Then the result should be a message 'Status deve conter apenas letras.'
+Thread#0:T:done: EmployeeSteps.ThenTheResultShouldBeAMessageStatus() (0,0s)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0219871 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Given I have a employee ID
+Thread#0:T:done: EmployeeSteps.GivenIHaveAEmployeeID() (0,0s)
+Thread#0:B:And I try change status to 'S'
+Thread#0:T:done: EmployeeSteps.GivenITryChangeStatusToActiveInative() (0,0s)
+Thread#0:B:When I press change status
+Thread#0:T:done: EmployeeSteps.WhenIPressChangeStatus() (0,0s)
+Thread#0:B:Then the result should be a status changed
+Thread#0:T:error: A chave fornecida não estava presente no dicionário.
+Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 1
+Thread#0: Test #6/0 is finished on thread #0 as Failed within 0,1598955 seconds
+Thread#0: Test #6/1 is started on thread #0
+Thread#0:B:Given I have a employee ID
+Thread#0:T:done: EmployeeSteps.GivenIHaveAEmployeeID() (0,0s)
+Thread#0:B:And I try change status to 'S'
+Thread#0:T:done: EmployeeSteps.GivenITryChangeStatusToActiveInative() (0,0s)
+Thread#0:B:When I press change status
+Thread#0:T:done: EmployeeSteps.WhenIPressChangeStatus() (0,0s)
+Thread#0:B:Then the result should be a status changed
+Thread#0:T:error: A chave fornecida não estava presente no dicionário.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 2
+Thread#0: Test #6/1 is finished on thread #0 as Failed within 0,0119923 seconds
+Thread#0: Test #6/2 is started on thread #0
+Thread#0:B:Given I have a employee ID
+Thread#0:T:done: EmployeeSteps.GivenIHaveAEmployeeID() (0,0s)
+Thread#0:B:And I try change status to 'S'
+Thread#0:T:done: EmployeeSteps.GivenITryChangeStatusToActiveInative() (0,0s)
+Thread#0:B:When I press change status
+Thread#0:T:done: EmployeeSteps.WhenIPressChangeStatus() (0,0s)
+Thread#0:B:Then the result should be a status changed
+Thread#0:T:error: A chave fornecida não estava presente no dicionário.
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #6/2 is finished on thread #0 as Failed within 0,0119929 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-11-07T18:04:57.8224687-02:00;Thread#16;Info;test run finished
+2018-11-07T18:04:57.8234682-02:00;Thread#16;Info;publishing test results
+2018-11-07T18:04:57.8984231-02:00;Thread#16;Info;test results published
+2018-11-07T18:04:57.8984231-02:00;Thread#16;Info;generating reports
+2018-11-07T18:04:57.9144110-02:00;Thread#16;Info;creating 1 report(s)
+2018-11-07T18:04:57.9154119-02:00;Thread#16;Info;generate Report ReportTemplate.cshtml
+2018-11-07T18:05:00.1769966-02:00;Thread#16;Info;reports generated
+Total: 3 (test executions: 5)
+Succeeded: 2
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
+2018-11-07T18:05:00.1849897-02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-11-07T18:05:00.1849897-02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\TestResults\UnitTestsProject_UnitTestsProject_2018-11-07T180443.html'
+2018-11-07T18:05:00.2069760-02:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\TestResults\UnitTestsProject_UnitTestsProject_2018-11-07T180443.log

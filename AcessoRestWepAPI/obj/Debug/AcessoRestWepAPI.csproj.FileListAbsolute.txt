@@ -1,0 +1,168 @@
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\ApplicationInsights.config
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.dll.config
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.pdb
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Antlr3.Runtime.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Web.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Newtonsoft.Json.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Net.Http.Formatting.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Helpers.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.WebHost.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Mvc.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Optimization.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Razor.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Razor.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\WebGrease.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Newtonsoft.Json.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Net.Http.Formatting.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Helpers.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.WebHost.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Mvc.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Optimization.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Razor.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Razor.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Antlr3.Runtime.pdb
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Web.xml
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csproj.CoreCompileInputs.cache
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.dll
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.pdb
+C:\Renato\Curso_WebServicesRM\AplicacaoExemplo\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csprojResolveAssemblyReference.cache
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\ApplicationInsights.config
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.dll.config
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Antlr3.Runtime.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Web.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Newtonsoft.Json.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Helpers.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Mvc.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Optimization.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Razor.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\WebGrease.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Newtonsoft.Json.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Helpers.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Mvc.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Optimization.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Razor.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Antlr3.Runtime.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Web.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csprojAssemblyReference.cache
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csproj.CoreCompileInputs.cache
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csproj.CopyComplete
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\DatabaseLib.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\RegrasNegocio.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Scimore.Data.ScimoreClient.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Dapper.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Castle.Windsor.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Castle.Core.dll
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\DatabaseLib.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\RegrasNegocio.pdb
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\RegrasNegocio.dll.config
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Dapper.xml
+C:\Users\renato.silva\Desktop\IGTI\Entrega material\AcessoRestWepAPI\AcessoRestWepAPI\bin\Castle.Windsor.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\ApplicationInsights.config
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.dll.config
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Antlr3.Runtime.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\DatabaseLib.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Web.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Newtonsoft.Json.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\RegrasNegocio.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Helpers.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Mvc.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Optimization.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Razor.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\WebGrease.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Scimore.Data.ScimoreClient.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Dapper.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Castle.Windsor.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Castle.Core.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\DatabaseLib.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\RegrasNegocio.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\RegrasNegocio.dll.config
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Newtonsoft.Json.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Helpers.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Mvc.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Optimization.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.Razor.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Antlr3.Runtime.pdb
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Microsoft.AI.Web.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Dapper.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\Castle.Windsor.xml
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csprojAssemblyReference.cache
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csproj.CoreCompileInputs.cache
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.csproj.CopyComplete
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.dll
+C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\obj\Debug\AcessoRestWepAPI.pdb

@@ -1,0 +1,109 @@
+﻿2018-11-07T01:33:43.9471756-02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2018-11-07T01:33:43.9521725-02:00;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2018-11-07T01:33:43.9521725-02:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2018-11-07T01:33:43.9841510-02:00;VSTestExecutionThread;Info;SpecRun: not SpecRun assembly - skip: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\AcessoRestWepAPI\bin\AcessoRestWepAPI.dll
+2018-11-07T01:33:43.9851510-02:00;VSTestExecutionThread;Info;SpecRun: not SpecRun assembly - skip: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\DatabaseLib\bin\Debug\DatabaseLib.dll
+2018-11-07T01:33:43.9851510-02:00;VSTestExecutionThread;Info;SpecRun: not SpecRun assembly - skip: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\RegrasNegocio\bin\Debug\RegrasNegocio.dll
+2018-11-07T01:33:45.8965976-02:00;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2018-11-07T01:33:45.8975974-02:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+2018-11-07T01:33:45.8975974-02:00;VSTestExecutionThread;Info;Profile: UnitTestsProject
+2018-11-07T01:33:54.3124426-02:00;Thread#15;Info;starting test run
+2018-11-07T01:33:54.3264363-02:00;Thread#15;Info;Discovering target: Default
+2018-11-07T01:33:54.3264363-02:00;Thread#15;Info;Discovering tests from assembly: C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\UnitTestsProject\bin\Debug\UnitTestsProject.dll
+Appdomain Disposed
+Test Suite Dump
+#0: UnitTestsProject/UnitTestsProject - 
+#1: Default - 
+#2: UnitTestsProject - 
+#3: Employee - 
+#4: Try change status to empty employee - TestAssembly:UnitTestsProject/Feature:Employee/Scenario:Try+change+status+to+empty+employee
+#5: Try change status to empty - TestAssembly:UnitTestsProject/Feature:Employee/Scenario:Try+change+status+to+empty
+#6: Try change status to active|inative - TestAssembly:UnitTestsProject/Feature:Employee/Scenario:Try+change+status+to+active%7cinative
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for UnitTestsProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have a empty employee
+Thread#0:T:pending: EmployeeSteps.GivenIHaveAEmptyEmployee()
+Thread#0:B:When I press change status
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then the result should be a message validation
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  EmployeeSteps.GivenIHaveAEmptyEmployee()
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #4/0 is finished on thread #0 as Pending within 1,26554 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:B:Given I have a employee ID
+Thread#0:T:pending: EmployeeSteps.GivenIHaveAEmployeeID()
+Thread#0:B:And I try change status to empty
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I press change status
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then the result should be a message validation
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  EmployeeSteps.GivenIHaveAEmployeeID()
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #6 from normal test queue 
+Thread#0:Scheduler: considering testitem #6 for thread 0
+Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #6 for thread 0
+Thread#0:Scheduler: Test #6 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0: Test #5/0 is finished on thread #0 as Pending within 0,0089959 seconds
+Thread#0: Test #6/0 is started on thread #0
+Thread#0:B:Given I have a employee ID
+Thread#0:T:pending: EmployeeSteps.GivenIHaveAEmployeeID()
+Thread#0:B:And I try change status to active|inative
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I press change status
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then the result should be a status changed
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  EmployeeSteps.GivenIHaveAEmployeeID()
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #6/0 is finished on thread #0 as Pending within 0,0079972 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2018-11-07T01:33:56.4188040-02:00;Thread#15;Info;test run finished
+2018-11-07T01:33:56.4198021-02:00;Thread#15;Info;publishing test results
+2018-11-07T01:33:56.4817648-02:00;Thread#15;Info;test results published
+2018-11-07T01:33:56.4817648-02:00;Thread#15;Info;generating reports
+2018-11-07T01:33:56.5200854-02:00;Thread#15;Info;creating 1 report(s)
+2018-11-07T01:33:56.5200854-02:00;Thread#15;Info;generate Report ReportTemplate.cshtml
+2018-11-07T01:33:59.9120630-02:00;Thread#15;Info;reports generated
+Total: 3
+Succeeded: 0
+Ignored: 0
+Pending: 3
+Skipped: 0
+Failed: 0
+2018-11-07T01:33:59.9180594-02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2018-11-07T01:33:59.9190605-02:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\TestResults\UnitTestsProject_UnitTestsProject_2018-11-07T013346.html'
+2018-11-07T01:33:59.9368370-02:00;VSTestExecutionThread;Info;Log file: file:///C:\Users\erika\Documents\Workspaces\AcessoRestWepAPI\TestResults\UnitTestsProject_UnitTestsProject_2018-11-07T013346.log
